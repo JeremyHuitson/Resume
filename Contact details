@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Me</title>
+    
+</head>
+
+<body>
+
+    <h1>Contact Me</h1>
+
+    <p>Name: Jeremy Huitson</p>
+    <p>Email: example@example.com</p>
+    <p>Address: 123 Fake Street</p>
+
+
+</body>
+
+</html>
